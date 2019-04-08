@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+PWD D:/Labs/CarrierLifeTime
+=======
 PWD I:/ÝÊÇÀÌÅÍÛ/CarrierLifeTime
+>>>>>>> master
 INPUT c:/texlive/2018/texmf.cnf
 INPUT c:/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -20,7 +24,11 @@ INPUT c:/texlive/2018/texmf-dist/tex/latex/base/t2aenc.dfu
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/t2aenc.dfu
 INPUT c:/texlive/2018/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 INPUT c:/texlive/2018/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+<<<<<<< HEAD
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm
+=======
 INPUT c:/Users/1/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm
+>>>>>>> master
 INPUT c:/texlive/2018/texmf-dist/tex/latex/cmap/t2a.cmap
 OUTPUT lifetime.pdf
 INPUT c:/texlive/2018/texmf-dist/tex/latex/cmap/t2a.cmap
@@ -396,6 +404,23 @@ INPUT lifetime.out
 INPUT ./lifetime.out
 INPUT ./lifetime.out
 OUTPUT lifetime.out
+<<<<<<< HEAD
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/lacc1200.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-4.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-4.def
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-33.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-33.def
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/larm2488.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/labx2488.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT lifetime.toc
+INPUT lifetime.toc
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm
+=======
 INPUT c:/Users/1/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/lacc1200.tfm
 INPUT c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-4.def
 INPUT c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-4.def
@@ -411,6 +436,7 @@ INPUT c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT lifetime.toc
 INPUT lifetime.toc
 INPUT c:/Users/1/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm
+>>>>>>> master
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT c:/texlive/2018/texmf-dist/tex/latex/cmap/ot1.cmap
 INPUT c:/texlive/2018/texmf-dist/tex/latex/cmap/ot1.cmap
@@ -447,7 +473,11 @@ INPUT ./img/1.jpg
 INPUT img/2.png
 INPUT ./img/2.png
 INPUT ./img/2.png
+<<<<<<< HEAD
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
+=======
 INPUT c:/Users/1/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
+>>>>>>> master
 INPUT img/3.png
 INPUT ./img/3.png
 INPUT ./img/3.png
@@ -457,8 +487,13 @@ INPUT ./img/4.png
 INPUT img/5.jpg
 INPUT ./img/5.jpg
 INPUT ./img/5.jpg
+<<<<<<< HEAD
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/larm0800.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm
+=======
 INPUT c:/Users/1/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/larm0800.tfm
 INPUT c:/Users/1/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm
+>>>>>>> master
 INPUT img/6.jpg
 INPUT ./img/6.jpg
 INPUT ./img/6.jpg
@@ -486,6 +521,12 @@ INPUT ./img/13.jpg
 INPUT img/14.jpg
 INPUT ./img/14.jpg
 INPUT ./img/14.jpg
+<<<<<<< HEAD
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm
+=======
+>>>>>>> master
 INPUT lifetime.aux
 INPUT ./lifetime.out
 INPUT ./lifetime.out
