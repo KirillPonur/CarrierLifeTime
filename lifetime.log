@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.10.31)  23 MAR 2019 18:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.20)  9 APR 2019 00:45
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **lifetime.tex
 (./lifetime.tex
@@ -248,16 +248,16 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@temptokena=\toks18
 )
 (c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/10/16 3.26 The Babel package
+Package: babel 2018/11/13 3.27 The Babel package
 
 (c:/texlive/2018/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/10/16 3.26 Babel switching mechanism
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
 )
 (c:/texlive/2018/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 
 (c:/texlive/2018/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2018/10/16 3.26 Babel common definitions
+File: babel.def 2018/11/13 3.27 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
 
@@ -605,7 +605,7 @@ mbles
 
 (c:/texlive/2018/texmf-dist/tex/latex/tools/shellesc.sty
 Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
-Package shellesc Info: Unrestricted shell escape enabled on input line 67.
+Package shellesc Info: Restricted shell escape enabled on input line 69.
 )
 (c:/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
@@ -1189,10 +1189,10 @@ Package: physics
 
 (c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2018-10-26 L3 programming layer (loader) 
+Package: expl3 2018-10-31 L3 programming layer (loader) 
 
 (c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2018-10-26 L3 programming layer (code)
+Package: expl3 2018-10-31 L3 programming layer (code)
 \c_max_int=\count163
 \l_tmpa_int=\count164
 \l_tmpb_int=\count165
@@ -1339,7 +1339,7 @@ Package: expl3 2018-10-26 L3 programming layer (code)
 \l__seq_internal_b_int=\count312
 )
 (c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2018-10-26 v L3 Experimental driver: PDF mode
+File: l3pdfmode.def 2018-10-31 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count313
 ))
 Package: xparse 2018-10-17 L3 Experimental document command parser
@@ -1745,10 +1745,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 574.
  ) 
 Here is how much of TeX's memory you used:
- 46652 strings out of 492639
- 993904 string characters out of 6133087
- 1170207 words of memory out of 5000000
- 49739 multiletter control sequences out of 15000+600000
+ 46660 strings out of 492639
+ 993965 string characters out of 6133087
+ 1170208 words of memory out of 5000000
+ 49747 multiletter control sequences out of 15000+600000
  547652 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  78i,12n,136p,9714b,671s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1771,7 +1771,7 @@ uper/sfbx2488.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1
 2018/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2018/texmf
 -dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/2018/texmf-dist/font
 s/type1/public/cm-super/sfti1200.pfb>
-Output written on lifetime.pdf (18 pages, 464458 bytes).
+Output written on lifetime.pdf (18 pages, 464452 bytes).
 PDF statistics:
  338 PDF objects out of 1000 (max. 8388607)
  276 compressed objects within 3 object streams
