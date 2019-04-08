@@ -1,0 +1,35 @@
+=>PYTHONTEX#py#default#default#0#code#####85#
+##
+def frexp10(decimal):
+	parts = ('%e' % decimal).split('e')
+	return float(parts[0]), int(parts[1])
+##
+=>PYTHONTEX#py#default#default#1#code#####136#
+##
+from main import *
+##
+=>PYTHONTEX:SETTINGS#
+version=0.17dev
+outputdir=pythontex-files-lifetime
+workingdir=.
+workingdirset=false
+gobble=none
+rerun=default
+hashdependencies=default
+makestderr=false
+stderrfilename=full
+keeptemps=none
+pyfuture=default
+pyconfuture=none
+pygments=true
+pygglobal=:GLOBAL||
+fvextfile=-1
+pyconbanner=none
+pyconfilename=stdin
+depythontex=false
+pygfamily=py|python|
+pygfamily=pycon|pycon|
+pygfamily=sympy|python|
+pygfamily=sympycon|pycon|
+pygfamily=pylab|python|
+pygfamily=pylabcon|pycon|
