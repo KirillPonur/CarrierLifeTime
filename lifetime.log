@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.20)  9 APR 2019 02:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.20)  9 APR 2019 02:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1520,11 +1520,7 @@ LaTeX Font Info:    Try loading font information for T2A+cmr on input line 21.
 
 (c:/texlive/2018/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-
-LaTeX Warning: Label `eq9' multiply defined.
-
-)
+))
 \openout1 = `lifetime.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
@@ -1545,7 +1541,8 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
- (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count358
 \scratchdimen=\dimen339
@@ -1650,12 +1647,12 @@ Non-PDF special ignored!
 <special> header=psfrag.pro
 
 {c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-<img/1.jpg, id=67, 202.356pt x 139.2402pt>
+<img/1.jpg, id=59, 202.356pt x 139.2402pt>
 File: img/1.jpg Graphic file (type jpg)
 <use img/1.jpg>
 Package pdftex.def Info: img/1.jpg  used on input line 20.
 (pdftex.def)             Requested size: 202.3555pt x 139.23985pt.
-<img/2.png, id=68, 195.6108pt x 160.9212pt>
+<img/2.png, id=60, 195.6108pt x 160.9212pt>
 File: img/2.png Graphic file (type png)
 <use img/2.png>
 Package pdftex.def Info: img/2.png  used on input line 21.
@@ -1683,102 +1680,30 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1 <./img/1.jpg> <./img/2.png (PNG copy)>]
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+LaTeX Warning: Reference `eq6' on page 2 undefined on input line 172.
 
-[2]
-<img/3.png, id=87, 147.9126pt x 163.3302pt>
-File: img/3.png Graphic file (type png)
-<use img/3.png>
-Package pdftex.def Info: img/3.png  used on input line 66.
-(pdftex.def)             Requested size: 147.91223pt x 163.32979pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[3]
-<img/4.png, id=94, 224.037pt x 237.0456pt>
-File: img/4.png Graphic file (type png)
-<use img/4.png>
-Package pdftex.def Info: img/4.png  used on input line 89.
-(pdftex.def)             Requested size: 224.03644pt x 237.045pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[4 <./img/3.png (PNG copy)>]
-Overfull \hbox (0.22183pt too wide) in paragraph at lines 98--99
-[]\T2A/cmr/m/n/12 Рассмотренная вы-ше ре-ком-би-на-ция ти-па <<зона-зона>> ха-р
-ак-тер-на для вы-со-ко-ка-че-ствен-
- []
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[5 <./img/4.png (PNG copy)>]
-
-LaTeX Warning: Command \CYRT invalid in math mode on input line 105.
-
-Missing character: There is no Т in font cmr12!
-<img/5.jpg, id=106, 226.446pt x 160.9212pt>
-File: img/5.jpg Graphic file (type jpg)
-<use img/5.jpg>
-Package pdftex.def Info: img/5.jpg  used on input line 114.
-(pdftex.def)             Requested size: 226.44543pt x 160.9208pt.
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[6 <./img/5.jpg>]
-
-Package amsmath Warning: Foreign command \atop;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 131.
-
-<img/6.jpg, id=118, 232.2276pt x 173.448pt>
-File: img/6.jpg Graphic file (type jpg)
-<use img/6.jpg>
-Package pdftex.def Info: img/6.jpg  used on input line 162.
-(pdftex.def)             Requested size: 232.22702pt x 173.44757pt.
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[7]
-<img/7.jpg, id=133, 197.0562pt x 159.4758pt>
+<img/7.jpg, id=68, 197.0562pt x 159.4758pt>
 File: img/7.jpg Graphic file (type jpg)
 <use img/7.jpg>
 Package pdftex.def Info: img/7.jpg  used on input line 193.
 (pdftex.def)             Requested size: 145.11053pt x 117.44081pt.
 
+Overfull \hbox (15.55768pt too wide) in paragraph at lines 199--200
+[]\T2A/cmr/m/n/12 Из при-ве-ден-но-го при-ме-ра вид-но, что ха-рак-тер-ное вре-
+мя из-ме-не-ния кон-цен-тра-ции неоснов-
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8 <./img/6.jpg>]
-Overfull \hbox (15.55768pt too wide) in paragraph at lines 199--200
-[]\T2A/cmr/m/n/12 Из при-ве-ден-но-го при-ме-ра вид-но, что ха-рак-тер-ное вре-
-мя из-ме-не-ния кон-цен-тра-ции неоснов-
- []
+[2 <./img/7.jpg>]
 
-<img/8.jpg, id=145, 227.4096pt x 159.9576pt>
+LaTeX Warning: Reference `eq5' on page 3 undefined on input line 203.
+
+<img/8.jpg, id=84, 227.4096pt x 159.9576pt>
 File: img/8.jpg Graphic file (type jpg)
 <use img/8.jpg>
 Package pdftex.def Info: img/8.jpg  used on input line 230.
@@ -1789,20 +1714,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9 <./img/7.jpg>]
+[3 <./img/8.jpg>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10 <./img/8.jpg>]
-<img/9.jpg, id=160, 133.4586pt x 111.7776pt>
+[4]
+<img/9.jpg, id=103, 133.4586pt x 111.7776pt>
 File: img/9.jpg Graphic file (type jpg)
 <use img/9.jpg>
 Package pdftex.def Info: img/9.jpg  used on input line 251.
 (pdftex.def)             Requested size: 133.45827pt x 111.77731pt.
-<img/10.jpg, id=161, 156.1032pt x 112.2594pt>
+<img/10.jpg, id=104, 156.1032pt x 112.2594pt>
 File: img/10.jpg Graphic file (type jpg)
 <use img/10.jpg>
 Package pdftex.def Info: img/10.jpg  used on input line 259.
@@ -1814,8 +1739,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11 <./img/9.jpg>]
-<img/11.png, id=169, 190.311pt x 84.315pt>
+[5 <./img/9.jpg> <./img/10.jpg>]
+<img/11.png, id=111, 190.311pt x 84.315pt>
 File: img/11.png Graphic file (type png)
 <use img/11.png>
 Package pdftex.def Info: img/11.png  used on input line 287.
@@ -1827,8 +1752,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12 <./img/10.jpg> <./img/11.png (PNG copy)>]
-<img/12.jpg, id=180, 189.8292pt x 105.996pt>
+[6 <./img/11.png (PNG copy)>]
+<img/12.jpg, id=124, 189.8292pt x 105.996pt>
 File: img/12.jpg Graphic file (type jpg)
 <use img/12.jpg>
 Package pdftex.def Info: img/12.jpg  used on input line 327.
@@ -1840,21 +1765,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13]
-<img/13.jpg, id=189, 163.3302pt x 108.8868pt>
+[7 <./img/12.jpg>]
+<img/13.jpg, id=131, 163.3302pt x 108.8868pt>
 File: img/13.jpg Graphic file (type jpg)
 <use img/13.jpg>
 Package pdftex.def Info: img/13.jpg  used on input line 341.
 (pdftex.def)             Requested size: 163.32979pt x 108.8865pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[14 <./img/12.jpg> <./img/13.jpg>]
-<img/14.jpg, id=196, 272.6988pt x 258.2448pt>
+<img/14.jpg, id=133, 272.6988pt x 258.2448pt>
 File: img/14.jpg Graphic file (type jpg)
 <use img/14.jpg>
 Package pdftex.def Info: img/14.jpg  used on input line 357.
@@ -1866,8 +1783,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15 <./img/14.jpg>]
-<fig/1.pdf, id=202, 462.52798pt x 346.89601pt>
+[8 <./img/13.jpg>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9 <./img/14.jpg>]
+<fig/1.pdf, id=143, 462.52798pt x 346.89601pt>
 File: fig/1.pdf Graphic file (type pdf)
 <use fig/1.pdf>
 Package pdftex.def Info: fig/1.pdf  used on input line 415.
@@ -1879,34 +1803,34 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16 <./fig/1.pdf>]
+[10 <./fig/1.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17]
+[11]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 443.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 443.
  (./lifetime.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 443.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 443.
 Package rerunfilecheck Info: File `lifetime.out' has not changed.
-(rerunfilecheck)             Checksum: 29CA5BB760C00BDE2097484D214615B6;4233.
+(rerunfilecheck)             Checksum: C833EFDB2A2F666D9C3035842AF59583;3373.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 48943 strings out of 492639
- 1046147 string characters out of 6133087
- 1236626 words of memory out of 5000000
- 52032 multiletter control sequences out of 15000+600000
+ 48895 strings out of 492639
+ 1045567 string characters out of 6133087
+ 1230007 words of memory out of 5000000
+ 52004 multiletter control sequences out of 15000+600000
  545358 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,12n,136p,9729b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,12n,136p,4338b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/tex
 live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2018
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-di
@@ -1914,23 +1838,20 @@ st/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2018/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmmi8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/te
-xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2018/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2018/texmf-dist/fonts/ty
-pe1/public/esint-type1/esint10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publ
-ic/amsfonts/symbols/msbm10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/c
-m-super/sfbx1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sf
-bx1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb
-><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb><c:/texli
-ve/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2018/te
-xmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2018/texmf-dist/f
-onts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1
-/public/cm-super/sfrm1728.pfb>
-Output written on lifetime.pdf (18 pages, 781369 bytes).
+.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/te
+xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/201
+8/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2018/texmf-di
+st/fonts/type1/public/esint-type1/esint10.pfb><c:/texlive/2018/texmf-dist/fonts
+/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pub
+lic/cm-super/sfbx1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-sup
+er/sfbx1728.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc109
+5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/
+texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/20
+18/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on lifetime.pdf (12 pages, 692049 bytes).
 PDF statistics:
- 325 PDF objects out of 1000 (max. 8388607)
- 264 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 192 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 254 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
